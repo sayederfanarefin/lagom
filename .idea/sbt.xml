@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/crypto-api" />
+            <option value="$PROJECT_DIR$/crypto-api/project" />
+            <option value="$PROJECT_DIR$/crypto-impl" />
+            <option value="$PROJECT_DIR$/crypto-impl/project" />
+            <option value="$PROJECT_DIR$/crypto-stream-api" />
+            <option value="$PROJECT_DIR$/crypto-stream-api/project" />
+            <option value="$PROJECT_DIR$/crypto-stream-impl" />
+            <option value="$PROJECT_DIR$/crypto-stream-impl/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.1" />
+        <option name="useSbtShell" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

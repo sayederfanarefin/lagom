@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="crypto_1547,crypto,crypto-stream-api,crypto-stream-impl,crypto-impl,crypto-api" />
+  </component>
+</project>
